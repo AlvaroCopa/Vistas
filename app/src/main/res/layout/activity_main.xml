@@ -8,17 +8,34 @@
     android:orientation="vertical"
     android:padding="1dp"
     android:layout_margin="0dp"
-    android:background="@android:color/holo_blue_light"
+    android:background="@color/colorFondo"
     tools:context="com.example.rocket.vistas.MainActivity">
     <ImageView
-        android:layout_width="291dp"
-        android:layout_height="201dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:padding="6dp"
+        android:layout_margin="20dp"
         app:srcCompat="@drawable/índice"
         android:id="@+id/imageView" />
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="40dp"
+        android:textColor="@android:color/white"
+        android:text="Bienvenidos a
+Twitter" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="24dp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@android:color/white"
+        android:text="Enterate ya de lo que está
+sucediendo en el mundo"
+        />
 
 
 </LinearLayout>
