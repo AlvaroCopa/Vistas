@@ -4,10 +4,9 @@ Ejemplo basico de Vistas
 * GDG Android Bolivia
 <br>Aplicacion</br>
 <center>
-	original
 	<img src="/img/destino.png" width="400">
 </center>
+<br>Demo</br>
 <center>
-	demo 
 	<img src="/img/final.png" width="400">
 </center>
