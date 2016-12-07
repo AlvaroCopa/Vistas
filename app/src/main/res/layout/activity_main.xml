@@ -15,7 +15,7 @@
         android:layout_height="100dp"
         android:padding="6dp"
         android:layout_margin="20dp"
-        app:srcCompat="@drawable/índice"
+        app:srcCompat="@drawable/imagen1"
         android:id="@+id/imageView" />
     <TextView
         android:layout_width="match_parent"
